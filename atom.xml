@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yuyechuan.github.io/</id>
+    <title>yuyechuan</title>
+    <updated>2024-03-10T14:20:43.188Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://yuyechuan.github.io/"/>
+    <link rel="self" href="https://yuyechuan.github.io/atom.xml"/>
+    <subtitle>认真生活</subtitle>
+    <logo>https://yuyechuan.github.io/images/avatar.png</logo>
+    <icon>https://yuyechuan.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, yuyechuan</rights>
+    <entry>
+        <title type="html"><![CDATA[How to use Claude 3 Sonnet in Mainland China]]></title>
+        <id>https://yuyechuan.github.io/post/how-to-use-claude-3-sonnet-in-mainland-china/</id>
+        <link href="https://yuyechuan.github.io/post/how-to-use-claude-3-sonnet-in-mainland-china/">
+        </link>
+        <updated>2024-03-10T14:20:00.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="the-next-generation-of-claude-claude-3">The next generation of Claude: Claude 3</h2>
+<p>Anthropic announced the Claude 3 model family on March 4 2024, including Claude 3 Haiku, Claude 3 Sonnet, and Claude 3 Opus.<br>
+Below is the comparisons of the Claude 3 models to other powerful AI models.<br>
+<img src="https://yuyechuan.github.io//post-images/1710077513400.webp" alt="" loading="lazy"><br>
+<img src="https://yuyechuan.github.io//post-images/1710077520667.webp" alt="" loading="lazy"><br>
+more information in <a href="https://www.anthropic.com/news/claude-3-family">Introducing the next generation of Claude</a></p>
+<h2 id="use-claude-3-sonnet-in-mainland-china">Use Claude 3 Sonnet in Mainland China</h2>
+<p>Unfortunately, Claude, like ChatGPT, is not available in China.<br>
+The following will introduce how to overcome this limitation.</p>
+<h3 id="prerequisites">Prerequisites</h3>
+<ol>
+<li>a proxy service or any other way to access the network outside the wall</li>
+<li>a Google account(recommended)</li>
+</ol>
+<h3 id="steps">Steps</h3>
+<ol>
+<li>use proxy service, choose one of the <a href="https://www.anthropic.com/supported-countries">regions</a>. I recommend the United States or the United Kingdom.</li>
+<li>visit the <a href="https://claude.ai/login?returnTo=%2F">offical website of Claude</a></li>
+<li>register a Cluade account with a Google account<br>
+Here you need to have an overseas mobile phone number to receive the verification code, You can find what you want <a href="https://sms-activate.org/">here</a>. By the way, choose the same region as the proxy address.</li>
+<li>then, you can use the Claude 3 Sonnet.</li>
+</ol>
+<h2 id="a-powerful-tool">A powerful tool</h2>
+<p>Here, I would like to recommend a powerful and easy-to-use tool ----<a href="https://github.com/lencx/Noi">Noi</a>.<br>
+Noi is developed by <a href="https://x.com/lencx_?s=20">lencx</a>.<br>
+The product vision is to Power Your World with AI - Explore, Extend, Empower.<br>
+I won't show how to use Noi here, please check it out yourself if you are interested.</p>
+<h2 id="preview">Preview</h2>
+<p>preview in claude.ai:<br>
+<img src="https://yuyechuan.github.io//post-images/1710079534260.png" alt="" loading="lazy"></p>
+<p>preview in Noi:<br>
+<img src="https://yuyechuan.github.io//post-images/1710079818277.JPG" alt="" loading="lazy"><br>
+<img src="https://yuyechuan.github.io//post-images/1710079607412.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mon corps, mon choix, mon droit]]></title>
+        <id>https://yuyechuan.github.io/post/mon-corps-mon-choix-mon-droit/</id>
+        <link href="https://yuyechuan.github.io/post/mon-corps-mon-choix-mon-droit/">
+        </link>
+        <updated>2024-03-08T12:50:00.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>花些时间去了解女性所处的处境，给予她们充分的尊重，并约束自己的行为，不要伤害她们。</strong></p>
+<h2 id="法国将堕胎权写入宪法">法国将堕胎权写入宪法</h2>
+<p>  法国国会在2024年3月4日于凡尔赛宫通过一项修宪案，将堕胎自由写入宪法，法国成为全球首个堕胎权入宪的国家。我不知道其背后有何政治考量，也不明白法学上会有何争议，但我想分享两部电影：《L'événement》和《Never, Rarely, Sometimes, Always》。前者正是一部法国电影，在2021年9月6日第78届威尼斯电影节正式竞赛举行全球首映，并夺得金狮奖；后者于2020年1月24日在圣丹斯电影节全球首映，之后入选第70届柏林电影节金熊奖主竞赛单元，最终获得评审团大奖银熊奖。<br>
+<img src="https://yuyechuan.github.io//post-images/1709913931831.JPG" alt="" loading="lazy"></p>
+<h2 id="lévénement">L'événement</h2>
+<p>background: Annie, a bright young student, is facing an unwanted pregnancy in 1960s France, when abortion is still illegal. --from Letterboxd</p>
+<p>In the following, I will present several important dialogues from the story, including those with two doctors, the teacher, the friend, and the child's father.</p>
+<p>the first time to see a doctor:<br>
+<img src="https://yuyechuan.github.io//post-images/1709914672150.JPG" alt="" loading="lazy"></p>
+<p>the second time to see a doctor(not the first, another one):<br>
+<img src="https://yuyechuan.github.io//post-images/1709914679878.JPG" alt="" loading="lazy"></p>
+<p>meeting the father of the child for the first time after pregnancy:<br>
+<img src="https://yuyechuan.github.io//post-images/1709914688424.JPG" alt="" loading="lazy"><br>
+<img src="https://yuyechuan.github.io//post-images/1709914697040.JPG" alt="" loading="lazy"></p>
+<p>a friend found a way for &quot;surgery&quot;:<br>
+<img src="https://yuyechuan.github.io//post-images/1709914711030.JPG" alt="" loading="lazy"></p>
+<p>first &quot;surgery&quot;:<br>
+<img src="https://yuyechuan.github.io//post-images/1709914720304.JPG" alt="" loading="lazy"><br>
+<img src="https://yuyechuan.github.io//post-images/1709914740257.JPG" alt="" loading="lazy"></p>
+<p>to see the teacher after the first &quot;surgery&quot; (grades dropped because of pregnancy):<br>
+<img src="https://yuyechuan.github.io//post-images/1709914734748.JPG" alt="" loading="lazy"></p>
+<p>second &quot;surgery&quot;:<br>
+<img src="https://yuyechuan.github.io//post-images/1709914750019.JPG" alt="" loading="lazy"></p>
+<p>return to the dormitory after the second &quot;surgery&quot;.<br>
+<img src="https://yuyechuan.github.io//post-images/1709914756513.JPG" alt="" loading="lazy"></p>
+<p><strong>有一天我会要个孩子的，但不是以我整个人生为代价，那样的话我会狠那个孩子一辈子的，我可能永远都不会爱他。</strong></p>
+<p><strong>一种只会攻击女人的病，把她们变成家庭主妇的病。</strong></p>
+<h2 id="never-rarely-sometimes-always">Never, Rarely, Sometimes, Always</h2>
+<p>background: A pair of teenage girls in rural Pennsylvania travel to New York City to seek out medical help after an unintended pregnancy. -- from Letterboxd</p>
+<p>some questiones you might ask:</p>
+<p>Is abortion allowed in the United States?<br>
+Due to the victory of Roe v. Wade, the United States allows women to have abortions if certain conditions are met, and the specific laws vary from state to state. But the U.S. Supreme Court overturns Roe v. Wade decision legalizing abortion in 2022.<br>
+And the film's premiere is January 24, 2020 at Sundance Film Festival.</p>
+<p>Why Autumn needs to go from Pennsylvania to New York?<br>
+New York, where a minor doesn't need parental permission to obtain an abortion, unlike in her home state.</p>
+<p>影片中有三个场景让我触动：<br>
+第一个是Autumn在做检查时，镜头从医院的病房内慢慢切换到无垠的蓝天；<br>
+第二个是Autumn与顾问Kelly的对话，也是影片片名Never, Rarely, Sometimes, Always的出处；<br>
+第三个是Autumn的表姐Skylar为了筹钱，不惜将自己的身体出卖给旅途中搭讪的一个男人。</p>
+<p>In the following, I will show what happened in the three scenes I mentioned, as well as some other scenes.</p>
+<p>first singing:<br>
+<img src="https://yuyechuan.github.io//post-images/1709987971969.JPG" alt="" loading="lazy"></p>
+<p>conversation with cousin Skylar:<br>
+<img src="https://yuyechuan.github.io//post-images/1709988031249.JPG" alt="" loading="lazy"></p>
+<p>hospital in Pennsylvania:<br>
+<img src="https://yuyechuan.github.io//post-images/1709988087863.JPG" alt="" loading="lazy"></p>
+<p>search on Google and beat herself in the stomach:<br>
+<img src="https://yuyechuan.github.io//post-images/1709988137714.JPG" alt="" loading="lazy"></p>
+<p>hospital in Brooklyn, New York:<br>
+<img src="https://yuyechuan.github.io//post-images/1709988247252.JPG" alt="" loading="lazy"><br>
+<img src="https://yuyechuan.github.io//post-images/1709988254974.JPG" alt="" loading="lazy"><br>
+<img src="https://yuyechuan.github.io//post-images/1709988259885.JPG" alt="" loading="lazy"></p>
+<p>conversation with Kelly in Manhattan, New York:<br>
+<img src="https://yuyechuan.github.io//post-images/1709988328167.JPG" alt="" loading="lazy"><br>
+<img src="https://yuyechuan.github.io//post-images/1709988332518.JPG" alt="" loading="lazy"><br>
+<img src="https://yuyechuan.github.io//post-images/1709988342126.JPG" alt="" loading="lazy"><br>
+<img src="https://yuyechuan.github.io//post-images/1709988346649.JPG" alt="" loading="lazy"><br>
+<img src="https://yuyechuan.github.io//post-images/1709988351249.JPG" alt="" loading="lazy"><br>
+<img src="https://yuyechuan.github.io//post-images/1709988355383.JPG" alt="" loading="lazy"><br>
+<img src="https://yuyechuan.github.io//post-images/1709988359835.JPG" alt="" loading="lazy"></p>
+<p>second singing:<br>
+<img src="https://yuyechuan.github.io//post-images/1709988491402.JPG" alt="" loading="lazy"></p>
+<p>the night before &quot;surgery&quot;:<br>
+<img src="https://yuyechuan.github.io//post-images/1709988529197.JPG" alt="" loading="lazy"><br>
+<img src="https://yuyechuan.github.io//post-images/1709988552613.JPG" alt="" loading="lazy"><br>
+<img src="https://yuyechuan.github.io//post-images/1709988564679.JPG" alt="" loading="lazy"></p>
+<p>&quot;sugery&quot;:<br>
+<img src="https://yuyechuan.github.io//post-images/1709988584320.JPG" alt="" loading="lazy"></p>
+<p><strong>Never, Rarely, Sometimes, Always</strong><br>
+<img src="https://yuyechuan.github.io//post-images/1709988752355.PNG" alt="" loading="lazy"></p>
+<h2 id="一些想法">一些想法</h2>
+<p><strong>两个国家，一个法国，一个美国；</strong><br>
+<strong>两个时间，一个1960s, 一个2020s;</strong><br>
+<strong>不同的女性，相似的处境。</strong></p>
+<p><strong>花些时间去了解女性所处的处境，给予她们充分的尊重，并约束自己的行为，不要伤害她们。</strong></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Sweet East]]></title>
+        <id>https://yuyechuan.github.io/post/the-sweet-east/</id>
+        <link href="https://yuyechuan.github.io/post/the-sweet-east/">
+        </link>
+        <updated>2024-03-02T12:00:26.000Z</updated>
+        <content type="html"><![CDATA[<p>The Sweet East<br>
+Directed By Sean Price Williams<br>
+Talia Ryder</p>
+<p>Don't trust a beautiful woman easily.<br>
+Don't be a cowardly(overly cautious) gentleman.</p>
+<figure data-type="image" tabindex="1"><img src="https://yuyechuan.github.io//post-images/1709380994255.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://yuyechuan.github.io//post-images/1709381046638.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://yuyechuan.github.io//post-images/1709381028744.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="https://yuyechuan.github.io//post-images/1709381072440.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="5"><img src="https://yuyechuan.github.io//post-images/1709381080142.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="6"><img src="https://yuyechuan.github.io//post-images/1709381090125.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="7"><img src="https://yuyechuan.github.io//post-images/1709381101654.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="8"><img src="https://yuyechuan.github.io//post-images/1709381113482.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="9"><img src="https://yuyechuan.github.io//post-images/1709381131976.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="10"><img src="https://yuyechuan.github.io//post-images/1709381137139.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[About me]]></title>
+        <id>https://yuyechuan.github.io/post/about/</id>
+        <link href="https://yuyechuan.github.io/post/about/">
+        </link>
+        <updated>2024-01-25T12:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>welcome, nice to meet you!🤝</p>
+<h2 id="about-this-site">🏠 about this site</h2>
+<p>a personal website for recording and sharing,<br>
+about some thoughts and reflections of me,<br>
+tools that make life more convinient,<br>
+computer science and engineering(obviously including AI)...</p>
+<h2 id="who-am-i">👨‍💻 who am i</h2>
+<p>yuyechuan, a former wayward individual, but now lives seriously.</p>
+<h2 id="interest-and-hobby">⛹ interest and hobby</h2>
+<p>sports: formula one, tennis, snooker<br>
+workout: rope jumping, running, swimming<br>
+art: books, movies, music, AI<br>
+food: coffee, cocacola, Lay's, mom's cooking<br>
+game: chess, stitch.</p>
+<h2 id="find-me-in">📬 find me in</h2>
+<p>weibo: <a href="https://weibo.com/u/7900586682">@yuyechuan_</a><br>
+xiaohongshu:<br>
+douban:<br>
+twitter/x:<br>
+instagram:</p>
+]]></content>
+    </entry>
+</feed>
